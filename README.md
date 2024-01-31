@@ -1,11 +1,8 @@
 ## Installation
 
 In the project directory, run:
-
+### `npm install`
 ### `node server.js`
-
-#### and
-
 ### `npm start`
 
 Runs the server and app in development mode.\
